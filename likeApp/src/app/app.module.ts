@@ -10,6 +10,13 @@ import { ProfileButtonComponent } from './profile-button/profile-button.componen
 import { ParticipantHomeComponent } from './participant-home/participant-home.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
+import { LoginComponent } from './login/login.component';
+import { RegisterComponent } from './register/register.component';
+import { CarouselHomeComponent } from './carousel-home/carousel-home.component';
+import { ParticipateComponent } from './participate/participate.component';
+import { ResultComponent } from './result/result.component';
+import { PrizesComponent } from './prizes/prizes.component';
+import { ContactUsComponent } from './contact-us/contact-us.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +28,13 @@ import { HomeComponent } from './home/home.component';
     ParticipantHomeComponent,
     FooterComponent,
     HomeComponent,
+    LoginComponent,
+    RegisterComponent,
+    CarouselHomeComponent,
+    ParticipateComponent,
+    ResultComponent,
+    PrizesComponent,
+    ContactUsComponent,
   ],
   imports: [
     BrowserModule,
