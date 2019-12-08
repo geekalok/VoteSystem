@@ -1,0 +1,24 @@
+.navbar-brand{
+    color: #e88010;
+    font-size: 1.5em;
+    font-family: 'Lobster', sans-serif;
+  }
+  .navbar-nav li a{
+    color: #ffff;
+  }
+  
+  .navbar-nav li a:hover{
+    background-color: #e88010;
+  }
+  
+  .btn-full{
+    margin-left: 10px;
+    background-color: #ffff;
+    color: #e88010;
+    margin-right: 15px;
+    border: 1px solid #ffff;
+  }
+  .btn-full:hover{
+    background-color: #e88010;
+    color: #ffffff;   
+  }
