@@ -449,8 +449,9 @@
     box-shadow: 0 10px 20px 0 rgba(232, 128, 16, 0.7);
   }
   .btn2{
-    margin-right: 20%;
-    margin-left: 22%;
+    display: flex;
+    justify-content:center;
+    
   }
   .btn-2{
     font-size: 1.5em;
@@ -542,7 +543,7 @@
     color: #e88010;
     text-align: center;
     float: left;
-    margin: 0 0 0 0px;
+    margin-bottom: 1rem;
     padding-bottom: 10px;
   }
   .our-team:hover{
@@ -579,7 +580,7 @@
   }
   
   .futr{
-    height: 50px;
+    
     background-color:gray;
     text-align:center;
     
